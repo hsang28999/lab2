@@ -1,0 +1,30 @@
+i
+{
+	color: red;
+}
+b
+{
+	color: red;
+}
+h1.uppercase 
+{
+    text-transform: uppercase;
+}
+em
+{
+	color: green;
+}
+p
+{
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 11px;
+}
+ul
+{
+	font-family: Consolas, monaco, monospace;
+	font-size: 11px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: 500;
+	line-height: 15.4px;
+}
